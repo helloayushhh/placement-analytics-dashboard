@@ -39,8 +39,7 @@ The dashboard helps management identify bottlenecks, track efficiency, and make 
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here for visual impact)*  
-Example:
-```markdown
+<img width="1206" height="677" alt="Screenshot 2026-01-16 122419" src="https://github.com/user-attachments/assets/70637f20-4d8e-4483-89a5-63290dca4f99" />
+
 ![Placement Overview](screenshots/placement_dashboard1.png)
 ![KPI Cards](screenshots/placement_dashboard2.png)
