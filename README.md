@@ -1,40 +1,55 @@
-## 📷 Dashboard Preview
-<img width="1206" height="677" alt="Screenshot 2026-01-16 122419" src="https://github.com/user-attachments/assets/70637f20-4d8e-4483-89a5-63290dca4f99" />
+# placement analytics dashboard
 
-# Placement Analysis & KPI Dashboard
-
-## 📊 Project Overview
-This project analyzes annual student placement data to provide clear visibility into admissions, placement timelines, trainer performance, and technology distribution.  
-The dashboard helps management identify bottlenecks, track efficiency, and make data‑driven decisions to improve operational outcomes.
+turning placement data into useful insights.
 
 ---
 
-## 🎯 Objectives
-- Monitor admissions, valid placements, and ongoing student status  
-- Track average time‑to‑placement and placement efficiency within six months  
-- Evaluate trainer performance and technology distribution trends  
-- Identify admission source patterns and their impact on placements  
+## why i built this
+
+i wanted to understand what placement data could actually tell beyond simple numbers.
+
+this dashboard brings together admissions, placements and trainer performance to help identify patterns and support better decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Power BI** – Interactive dashboards and KPI cards  
-- **Excel** – Data preprocessing and validation  
-- **Python (Pandas, NumPy)** – Data cleaning and transformation  
-- **SQL** – Querying and dataset management  
+## what it does
+
+- tracks admissions and placements
+- measures placement efficiency
+- analyzes trainer performance
+- explores technology-wise distribution
+- highlights trends through interactive dashboards
 
 ---
 
-## 📈 Key Features
-- **Admissions & Placements** – Track student progress from admission to placement  
-- **KPI Cards** – Placement efficiency, trainer performance, and admission source trends  
-- **Technology Insights** – Distribution of students across technologies  
-- **Data Quality Checks** – Handling missing admission dates, NA values, and unknown technologies  
+## built with
+
+- power bi
+- python
+- pandas
+- sql
+- excel
 
 ---
 
-## 🔑 Business Impact
-- Improved visibility into placement timelines and bottlenecks  
-- Actionable insights for management to enhance efficiency  
-- Better resource allocation based on trainer and technology performance  
-- Strengthened data quality for reliable reporting  
+## what i learned
+
+- designing dashboards around business questions
+- cleaning and preparing messy datasets
+- turning raw data into meaningful insights
+- communicating findings through visualization
+
+---
+
+## what's next
+
+- predictive placement analysis
+- automated data refresh
+- deeper trend analysis
+- interactive drill-down reports
+
+---
+
+see you in the next build.
+
+— aps
